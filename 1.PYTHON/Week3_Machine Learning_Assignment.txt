@@ -1,0 +1,18 @@
+A company works with number of employees, all the works are dependents on the employees. Even if one of the employees resign the job immediately then assigned work will be not finished at the time, so delivery of the project to the clients will be delayed. Company planned to make solution for this, they want to know which employee may resign next. If they know previously, they can arrange alternative to avoid such problem. As an AI Engineer you must give Solution to this.
+
+1. How will you achieve this in AI?
+The dataset containing the records of both current and former employees is available to us. Compute the previous employee's total years of employment, years at the current firm, performance grade, number of promotions, hike percentage and salary.so that we can identify the contributing elements to resignation. Using that analysis, we may make predictions about which employee will resign next by comparing with the current staff.
+
+2. Find out the 3 -Stage of Problem Identification
+Stage 1 Domain selection- Machine Learning
+Stage 2-Semi-Supervised
+Stage 3-Classification
+
+3. Name the project
+Employee Resignation Predictor using AI
+
+4. Create the dummy Dataset.
+ 
+
+
+
